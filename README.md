@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Mustafa-Sen
 - 🕵️‍♂️ I work as a Sr. Operations Research Analyst, and I am also a PhD candidate 👨‍�
 - 👀 I’m interested in Data Analytics and Data Science 
-- 🌱 I’m currently learning linear and non-linear programming of Operations Research
 - 📫 You can reach me at mustafasenus@gmail.com or via LinkedIn
 
 <!---
